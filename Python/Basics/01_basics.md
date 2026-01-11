@@ -24,4 +24,10 @@
 
 # Python executes only one branch
 
-# Indentation controls scope (critical in Python)
+# Indentation controls scope (critical in Python
+
+## range(5) generates: 0, 1, 2, 3, 4
+
+## Loop variable i updates automatically
+
+## Indentation defines loop body
